@@ -2,19 +2,8 @@
 
     @foreach (Card card in Model.cards)
 	{
-		
-		<h1>Card</h1>
-		<p>@card.code</p>
 		<img src="@card.image" />
-		<p>@card.value</p>
-		<p>@card.suit</p>
-		
 	}
 
 
 
-	@*public string code { get; set; }
-		public string image { get; set; }
-		public Images images { get; set; }
-		public string value { get; set; }
-		public string suit { get; set; }*@

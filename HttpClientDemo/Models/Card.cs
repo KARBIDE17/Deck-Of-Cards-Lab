@@ -5,7 +5,7 @@
 	{
 		public string code { get; set; }
 		public string image { get; set; }
-		public Images images { get; set; }
+		public Images images { get; set; } //images is an objects so it will need to be referenced below
 		public string value { get; set; }
 		public string suit { get; set; }
 	}

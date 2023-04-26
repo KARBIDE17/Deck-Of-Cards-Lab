@@ -37,3 +37,42 @@ C:\Users\steve\source\repos\CSharpMasterclass\ASPnet, MVC, Razor, Blazor API\Htt
 C:\Users\steve\source\repos\CSharpMasterclass\ASPnet, MVC, Razor, Blazor API\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.pdb
 C:\Users\steve\source\repos\CSharpMasterclass\ASPnet, MVC, Razor, Blazor API\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.genruntimeconfig.cache
 C:\Users\steve\source\repos\CSharpMasterclass\ASPnet, MVC, Razor, Blazor API\HttpClientDemo\HttpClientDemo\obj\Debug\net6.0\ref\DeckOfCardsApiDemo.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\DeckOfCardsApiDemo.staticwebassets.runtime.json
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\DeckOfCardsApiDemo.exe
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\DeckOfCardsApiDemo.deps.json
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\DeckOfCardsApiDemo.runtimeconfig.json
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\DeckOfCardsApiDemo.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\DeckOfCardsApiDemo.pdb
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.AssemblyInfo.cs
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.RazorAssemblyInfo.cache
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.RazorAssemblyInfo.cs
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\staticwebassets\msbuild.DeckOfCardsApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.DeckOfCardsApiDemo.props
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DeckOfCardsApiDemo.props
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DeckOfCardsApiDemo.props
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\scopedcss\bundle\DeckOfCardsApiDemo.styles.css
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\scopedcss\projectbundle\DeckOfCardsApiDemo.bundle.scp.css
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.csproj.CopyComplete
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\refint\DeckOfCardsApiDemo.dll
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.pdb
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\DeckOfCardsApiDemo.genruntimeconfig.cache
+C:\Users\steve\source\repos\Deck-Of-Cards-Lab\HttpClientDemo\obj\Debug\net6.0\ref\DeckOfCardsApiDemo.dll

@@ -4916,11 +4916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steve\\source\\repos\\CSharpMasterclass\\ASPnet, MVC, Razor, Blazor API\\HttpClientDemo\\HttpClientDemo\\DeckOfCardsApiDemo.csproj",
+      "projectUniqueName": "C:\\Users\\steve\\source\\repos\\Deck-Of-Cards-Lab\\HttpClientDemo\\DeckOfCardsApiDemo.csproj",
       "projectName": "DeckOfCardsApiDemo",
-      "projectPath": "C:\\Users\\steve\\source\\repos\\CSharpMasterclass\\ASPnet, MVC, Razor, Blazor API\\HttpClientDemo\\HttpClientDemo\\DeckOfCardsApiDemo.csproj",
+      "projectPath": "C:\\Users\\steve\\source\\repos\\Deck-Of-Cards-Lab\\HttpClientDemo\\DeckOfCardsApiDemo.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steve\\source\\repos\\CSharpMasterclass\\ASPnet, MVC, Razor, Blazor API\\HttpClientDemo\\HttpClientDemo\\obj\\",
+      "outputPath": "C:\\Users\\steve\\source\\repos\\Deck-Of-Cards-Lab\\HttpClientDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4986,7 +4986,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

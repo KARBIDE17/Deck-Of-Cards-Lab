@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v3usnnPojHEQL6zfXUEhdqtGbrDGoPDo751wXgvpa3LS9XGSJSwMbcFDkvnNMblzgOn84MbA5UtLtokQJQII+Q==",
+  "dgSpecHash": "XwodLnb88LImiyRFPVHzEC0HXFZjXbYSMwi7YQW80zAhdwJpcoTltuKu6/tgsxb7In1V+lEBLZZi3QakGNcaFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\steve\\source\\repos\\CSharpMasterclass\\ASPnet, MVC, Razor, Blazor API\\HttpClientDemo\\HttpClientDemo\\DeckOfCardsApiDemo.csproj",
+  "projectFilePath": "C:\\Users\\steve\\source\\repos\\Deck-Of-Cards-Lab\\HttpClientDemo\\DeckOfCardsApiDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

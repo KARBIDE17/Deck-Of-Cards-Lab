@@ -2,15 +2,19 @@ using DeckOfCardsApiDemo.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
 builder.Services.AddControllersWithViews();
 
 
 
+
+// Set the base URL for the API calls
 builder.Services.AddHttpClient<DeckOfCardsApiService>(d => 
 {   
-    d.BaseAddress = new Uri("https://deckofcardsapi.com/api/deck/");         // Set the base URL for the API calls
+    d.BaseAddress = new Uri("https://deckofcardsapi.com/api/deck/");         
 });
+
+
 
 
 var app = builder.Build();

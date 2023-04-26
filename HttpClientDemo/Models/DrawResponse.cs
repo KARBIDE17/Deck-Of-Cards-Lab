@@ -1,6 +1,6 @@
 ﻿namespace DeckOfCardsApiDemo.Models
 {
-	public class DrawResponse
+	public class DrawResponse //model
 	{
 		public bool success { get; set; }
 		public string deck_id { get; set; }
